@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-5wm5f9.kujang138gold.site/sitemap.xml
